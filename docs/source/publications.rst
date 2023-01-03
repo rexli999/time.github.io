@@ -5,6 +5,8 @@ Publications
 
 - Wang, Shirlene, Stephen Intille, Aditya Ponnada, Bridgette Do, Alexander Rothman, and Genevieve Dunton. "Investigating Microtemporal Processes Underlying Health Behavior Adoption and Maintenance: Protocol for an Intensive Longitudinal Observational Study." JMIR research protocols 11, no. 7 (2022): e36666.
 
+- Ponnada, Aditya, Shirlene Wang, Daniel Chu, Bridgette Do, Genevieve Dunton, and Stephen Intille. "Intensive longitudinal data collection using microinteraction ecological momentary assessment: pilot and preliminary results." JMIR formative research 6, no. 2 (2022): e32772.
+
 **Compliance**
 
 - Ponnada, Aditya, Jixin Li, Shirlene Wang, Wei-Lin Wang, Bridgette Do, Genevieve F. Dunton, and Stephen S. Intille. "Contextual Biases in Microinteraction Ecological Momentary Assessment (μEMA) Non-response." Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 6, no. 1 (2022): 1-24.
