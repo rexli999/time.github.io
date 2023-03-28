@@ -30,7 +30,7 @@ Up to 12 months of data collection
 
 Online Questionnaire Measures
 -----------------------------
-Find detailed item description `here <https://docs.google.com/document/d/1fooBRUKPCBHgsNCFYjTmqGkJZtN2GA7n/edit?usp=sharing&ouid=114892255827597694084&rtpof=true&sd=true>`_.
+Find detailed item description `here <https://docs.google.com/document/d/1XQEkHa7GiSVnc8vuuiiKmHqnqYE_6eqA/edit?usp=share_link&ouid=114892255827597694084&rtpof=true&sd=true>`_.
 
 - General Health Questions
 
