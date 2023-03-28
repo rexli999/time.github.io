@@ -5,8 +5,7 @@ Publications
 
 - Wang, S., Intille, S., Ponnada, A., Do, B., Rothman, A., & Dunton, G. (2022). Investigating Microtemporal Processes Underlying Health Behavior Adoption and Maintenance: Protocol for an Intensive Longitudinal Observational Study. JMIR research protocols, 11(7), e36666. https://doi.org/10.2196/36666
 
-- Ponnada A, Wang S, Chu D, Do B, Dunton G, Intille S. Intensive Longitudinal Data Collection Using Microinteraction Ecological Momentary Assessment: Pilot and Preliminary Results 
-JMIR Form Res 2022;6(2):e32772
+- Ponnada A, Wang S, Chu D, Do B, Dunton G, Intille S. Intensive Longitudinal Data Collection Using Microinteraction Ecological Momentary Assessment: Pilot and Preliminary Results. JMIR Form Res. 2022 Feb 9;6(2):e32772. doi: 10.2196/32772. PMID: 35138253; PMCID: PMC8867293.
 
 - Dunton, G.F., Rothman, A.J., Leventhal, A.M., Intille, S.S. How intensive longitudinal data can stimulate advances in health behavior maintenance theories and interventions. Translational Behavioral Medicine, 2019.
 
