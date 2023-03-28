@@ -5,21 +5,21 @@ The rich data collected in TIME study are processed and stored at different leve
 
 .. image:: /images/flowcharts.png
 
-**Raw data and logs (not sharable)**
+**Raw data and logs**
 
 *Description*: all data and logs are encrypted and stored in their raw format after being directly pulled from devices. It contains all kinds of logs including those used for debugging purposes. Most files have data format issues, such as missing headers, duplicate rows, logging errors, etc.
 
-*Location*: discovery cluster(/work/mhealthresearchgroup/TIME_STD/first_second_pass_output)
+*Location*: discovery cluster
 
-*Codebook*: `Link <https://docs.google.com/document/d/1IlfrrZB0eCr43tGakPALN73Hd7YkRVOIpuyOMkQ4lkg/edit?usp=sharing>`_
+*Codebook*: `Link <https://docs.google.com/document/d/1P_EFLPf1ovy7Q1KxJqeJcsvjVorTU3F5/edit?usp=sharing&ouid=114892255827597694084&rtpof=true&sd=true>`_
 
 **Intermediate data (recommended for experienced programmer)**
 
 *Description*: data and logs are extracted from the raw data and logs and cleaned to be free of format issues as in raw data format. Every file is stored in csv format with a header. Researchers with strong programming skills can start analysis with data at this stage. See more details about data processing of first, second, and third passes on discovery cluster `here <https://docs.google.com/presentation/d/16MweNpNtCRuGesIusS8MOqcHZurvukfOXVf_9RZ9iCU/edit?usp=sharing>`_.
 
-*Location*: discovery cluster(/work/mhealthresearchgroup/TIME_STD/time_study_preprocess/intermediate_file)
+*Location*: discovery cluster
 
-*Codebook*: `Link <https://docs.google.com/document/u/0/d/1RsxueU1tCGNSl8-ClNjRPpkv-y9AHej1IfkIU53Lo6E/edit>`_
+*Codebook*: `Link <https://docs.google.com/document/d/1ICuqKXCl5JkM5RjU1WNQs4hphxWwTz-E/edit?usp=sharing&ouid=114892255827597694084&rtpof=true&sd=true>`_
 
 **Daily report**
 
@@ -27,7 +27,7 @@ The rich data collected in TIME study are processed and stored at different leve
 
 *Location*: discovery cluster
 
-*Codebook*: `Link <https://docs.google.com/document/u/0/d/12JpiR7GD7_DLYHp2-a_twEMTy_BKxkADFTucvUF0VsY/edit>`_
+*Codebook*: `Link <https://docs.google.com/document/d/1LqaMriSpHDn5IUJGW9jtkihuh8c13KEB/edit?usp=sharing&ouid=114892255827597694084&rtpof=true&sd=true>`_
 
 **EMA dataset**
 
