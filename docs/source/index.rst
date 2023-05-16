@@ -11,6 +11,8 @@ The **Temporal Influences on Movement and Exercise (TIME) Study** uses mobile an
 
 Click on the following sections for further information.
 
+We welcome feedback from researchers. Please let us know if you have questions about the study, dataset, or suggestions regarding the codebooks. The best way to give us feedback is to open an issue for us on our Github site.
+
 
 Contents
 --------
