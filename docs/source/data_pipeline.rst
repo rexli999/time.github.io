@@ -1,11 +1,11 @@
-Datasets and codebook
+Data description and codebook
 ============================
 
 The rich data collected in TIME study are processed and stored at different levels to serve different purposes and researchers with various programming backgrounds. They include data and logs in original form that preserves maximal information, intermediate data that are processed with modest manners to have a cleaner format, pre-processed data that have a refined format and can be directly imported into statistical softwares, and project-specific data that are generated for project-specific purposes. Details about these datasets can be found in their codebooks.
 
 .. image:: /images/flowcharts.png
 
-**Raw data and logs**
+**Raw data and logs (recommended for experienced programmer)**
 
 *Description*: all data and logs are encrypted and stored in their raw format after being directly pulled from devices. It contains all kinds of logs including those used for debugging purposes. Most files have data format issues, such as missing headers, duplicate rows, logging errors, etc.
 
